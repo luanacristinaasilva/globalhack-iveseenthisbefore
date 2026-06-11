@@ -1,0 +1,128 @@
+[
+  {
+    "id": "s1",
+    "name": "TypeScript",
+    "category": "language",
+    "color": "#3178C6",
+    "relatedSkills": ["JavaScript", "Node.js", "React"]
+  },
+  {
+    "id": "s2",
+    "name": "JavaScript",
+    "category": "language",
+    "color": "#F7DF1E",
+    "relatedSkills": ["TypeScript", "React", "Node.js"]
+  },
+  {
+    "id": "s3",
+    "name": "Python",
+    "category": "language",
+    "color": "#3776AB",
+    "relatedSkills": ["Machine Learning", "Data Engineering", "Django"]
+  },
+  {
+    "id": "s4",
+    "name": "Java",
+    "category": "language",
+    "color": "#ED8B00",
+    "relatedSkills": ["Spring Boot", "Microservices", "Kotlin"]
+  },
+  {
+    "id": "s5",
+    "name": "React",
+    "category": "framework",
+    "color": "#61DAFB",
+    "relatedSkills": ["TypeScript", "JavaScript", "Next.js", "CSS"]
+  },
+  {
+    "id": "s6",
+    "name": "Node.js",
+    "category": "runtime",
+    "color": "#339933",
+    "relatedSkills": ["TypeScript", "JavaScript", "Express"]
+  },
+  {
+    "id": "s7",
+    "name": "Spring Boot",
+    "category": "framework",
+    "color": "#6DB33F",
+    "relatedSkills": ["Java", "Microservices", "REST API"]
+  },
+  {
+    "id": "s8",
+    "name": "AWS",
+    "category": "cloud",
+    "color": "#FF9900",
+    "relatedSkills": ["Kubernetes", "Terraform", "DevOps", "Cloud Architecture"]
+  },
+  {
+    "id": "s9",
+    "name": "Kubernetes",
+    "category": "devops",
+    "color": "#326CE5",
+    "relatedSkills": ["Docker", "Terraform", "AWS", "Helm"]
+  },
+  {
+    "id": "s10",
+    "name": "Terraform",
+    "category": "devops",
+    "color": "#7B42BC",
+    "relatedSkills": ["AWS", "Kubernetes", "IaC", "DevOps"]
+  },
+  {
+    "id": "s11",
+    "name": "Docker",
+    "category": "devops",
+    "color": "#2496ED",
+    "relatedSkills": ["Kubernetes", "CI/CD", "DevOps"]
+  },
+  {
+    "id": "s12",
+    "name": "Machine Learning",
+    "category": "ai",
+    "color": "#FF6F61",
+    "relatedSkills": ["Python", "TensorFlow", "PyTorch", "MLflow", "Feature Engineering"]
+  },
+  {
+    "id": "s13",
+    "name": "Kafka",
+    "category": "data",
+    "color": "#000000",
+    "relatedSkills": ["Data Pipeline", "Python", "Real-time", "Event Streaming"]
+  },
+  {
+    "id": "s14",
+    "name": "SQL",
+    "category": "data",
+    "color": "#4479A1",
+    "relatedSkills": ["dbt", "Data Warehouse", "PostgreSQL", "Redshift"]
+  },
+  {
+    "id": "s15",
+    "name": "System Design",
+    "category": "architecture",
+    "color": "#9B59B6",
+    "relatedSkills": ["Microservices", "Architecture", "Distributed Systems", "Leadership"]
+  },
+  {
+    "id": "s16",
+    "name": "Agile",
+    "category": "methodology",
+    "color": "#27AE60",
+    "relatedSkills": ["Scrum", "Kanban", "Product Strategy", "OKR"]
+  },
+  {
+    "id": "s17",
+    "name": "Leadership",
+    "category": "soft_skill",
+    "color": "#E74C3C",
+    "relatedSkills": ["Mentoring", "System Design", "Soft Skills", "Team Management"]
+  },
+  {
+    "id": "s18",
+    "name": "dbt",
+    "category": "data",
+    "color": "#FF694B",
+    "relatedSkills": ["SQL", "Data Warehouse", "Analytics Engineering", "Python"]
+  }
+]
